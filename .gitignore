@@ -52,3 +52,8 @@ dev/hpack/decode
 dev/hpack/gen-rht
 /src/dlmalloc.c
 /tests/test_hashes
+!/toolbox-ubi.sh
+!/build-haproxy-with-openshift-settings.sh
+!/build-image.sh
+!/Dockerfile.*
+!/OPENSHIFT.md
